@@ -1,9 +1,9 @@
 # 💻 Pushpraj Dwivedi — Full-Stack & DevOps Engineer  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pushpraj-rmx)
-[![GitHub](https://img.shields.io/badge/GitHub-pushpraj-rmx-black?style=flat-square&logo=github)](https://github.com/shunyadev)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:pushpraj@example.com)
-![Profile Views](https://komarev.com/ghpvc/?username=shunyadev&style=flat-square&color=blue)
+[![GitHub](https://img.shields.io/badge/GitHub-pushpraj--rmx-black?style=flat-square&logo=github)](https://github.com/pushpraj-rmx)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:pushprajdwivedi001@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&style=flat-square&color=blue)
 
 ---
 
@@ -47,27 +47,27 @@ I love turning complex requirements into **clean, efficient, and high-impact sol
 
 ### 📌 WhatsSuite Backend  
 _TypeScript + Prisma backend for scalable WhatsApp Business API integrations with Redis caching and authentication._  
-🔗 [GitHub Repo](https://github.com/shunyadev) | 🛠 Tech: TypeScript, Node.js, Prisma, Redis, Express.js
+🔗 [GitHub Repo](https://github.com/pushpraj-rmx) | 🛠 Tech: TypeScript, Node.js, Prisma, Redis, Express.js
 
 ---
 
 ### 📌 Modular Link Shortener  
 _NestJS + React project with analytics and modular architecture for easy scaling._  
-🔗 [GitHub Repo](https://github.com/shunyadev) | 🛠 Tech: NestJS, React, PostgreSQL
+🔗 [GitHub Repo](https://github.com/pushpraj-rmx) | 🛠 Tech: NestJS, React, PostgreSQL
 
 ---
 
 ### 📌 Banner Management System  
 _Node.js + JSON storage (PostgreSQL-ready) with full CRUD, image uploads, and admin control panel._  
-🔗 [GitHub Repo](https://github.com/shunyadev) | 🛠 Tech: Node.js, EJS, Multer
+🔗 [GitHub Repo](https://github.com/pushpraj-rmx) | 🛠 Tech: Node.js, EJS, Multer
 
 ---
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shunyadev&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shunyadev&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=shunyadev&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpraj-rmx&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpraj-rmx&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=pushpraj-rmx&theme=tokyonight&hide_border=false)
 
 ---
 
@@ -78,6 +78,6 @@ Opportunities to work with **modern tech stacks, collaborative teams, and impact
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pushprajdwivedi)  
-[![GitHub](https://img.shields.io/badge/GitHub-shunyadev-black?style=flat-square&logo=github)](https://github.com/shunyadev)  
-📧 Email: pushpraj@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pushpraj-rmx)  
+[![GitHub](https://img.shields.io/badge/GitHub-pushpraj--rmx-black?style=flat-square&logo=github)](https://github.com/pushpraj-rmx)  
+📧 Email: pushprajdwivedi001@gmail.com
