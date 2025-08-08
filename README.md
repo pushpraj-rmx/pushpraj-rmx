@@ -1,7 +1,7 @@
 # 💻 Pushpraj Dwivedi — Full-Stack & DevOps Engineer  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pushprajdwivedi)
-[![GitHub](https://img.shields.io/badge/GitHub-shunyadev-black?style=flat-square&logo=github)](https://github.com/shunyadev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pushpraj-rmx)
+[![GitHub](https://img.shields.io/badge/GitHub-pushpraj-rmx-black?style=flat-square&logo=github)](https://github.com/shunyadev)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:pushpraj@example.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=shunyadev&style=flat-square&color=blue)
 
