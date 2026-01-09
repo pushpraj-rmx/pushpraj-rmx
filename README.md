@@ -1,5 +1,12 @@
 # 💻 Pushpraj Dwivedi — Full-Stack & DevOps Engineer  
 ![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&color=blue&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pushpraj-rmx)
 [![GitHub](https://img.shields.io/badge/GitHub-pushpraj--rmx-black?style=flat-square&logo=github)](https://github.com/pushpraj-rmx)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:pushprajdwivedi001@gmail.com)
