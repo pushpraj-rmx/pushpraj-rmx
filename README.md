@@ -1,13 +1,33 @@
 # 💻 Pushpraj Dwivedi — Full-Stack & DevOps Engineer  
-![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&color=blue&style=flat)
+
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=purple)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=pink)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=black)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=grey)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=brightgreen)
+
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=22c55e)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=8b5cf6)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=ef4444)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=f97316)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=14b8a6)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=6366f1)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=ec4899)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=facc15)
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&label=Profile%20views&style=flat-square&color=000000)
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pushpraj-rmx)
 [![GitHub](https://img.shields.io/badge/GitHub-pushpraj--rmx-black?style=flat-square&logo=github)](https://github.com/pushpraj-rmx)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:pushprajdwivedi001@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&style=flat-square&color=blue)
-![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&style=flat-square&color=red)
-![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&style=flat-square&color=green)
-![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&style=flat-square&color=gree)
-![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&style=flat-square&color=gfd)
 
 
 ---
