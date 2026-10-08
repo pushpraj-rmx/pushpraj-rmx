@@ -194,6 +194,6 @@ wired up from the start.
 
 **Open to remote or hybrid backend / platform roles.**
 
-[pushpraj-rmx.github.io](https://pushpraj-rmx.github.io/) · [pushprajdwivedi001@gmail.com](mailto:pushprajdwivedi001@gmail.com)
+🌐 [pushpraj-rmx.github.io](https://pushpraj-rmx.github.io/) &nbsp;·&nbsp; ✉️ [pushprajdwivedi001@gmail.com](mailto:pushprajdwivedi001@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/pushpraj-rmx)
 
 </div>
