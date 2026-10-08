@@ -2,12 +2,14 @@
 
 # Pushpraj Dwivedi
 
-### Backend &amp; DevOps Engineer
+### Product Engineer
 
 **Systems that scale. Pipelines that ship.**
 
-I build scalable, reliable systems — messaging infrastructure, multi-tenant
-platforms, and the pipelines that ship them.
+Full-stack product engineer — I own products end to end, from the API and the
+infrastructure it runs on through the web, desktop and mobile clients on top.
+Messaging infrastructure, multi-tenant platforms, and the pipelines that ship
+them.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pushpraj--rmx.github.io-0D1117?style=for-the-badge&logo=githubpages&logoColor=white)](https://pushpraj-rmx.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushpraj-rmx)
